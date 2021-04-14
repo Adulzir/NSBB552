@@ -1,2 +1,2 @@
 # NSBB552
-Shenanigans from Dr.Wilson's Data Analytics class
+Shenanigans from Dr. Wilson's Data Analytics class
